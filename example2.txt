@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii - dev2
+=======
+hii
+>>>>>>> origin/master
 I am Ramya
